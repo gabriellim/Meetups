@@ -8,8 +8,6 @@ Venue: 7 Gate Venture Labs
 
 ### Google Cloud for Startups Overview
 ---
--Most common issues startups face when it comes to the cloud
-
--What tools and technologies can be used to solve those issues
-
--Using GCP
+1. Most common issues startups face when it comes to the cloud
+2. What tools and technologies can be used to solve those issues
+3. Using GCP
