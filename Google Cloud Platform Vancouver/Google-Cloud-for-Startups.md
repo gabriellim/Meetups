@@ -20,9 +20,11 @@ Venue: 7 Gate Venture Labs
 
 Google Cloud Platform (GCP)
 - Started in 2008, App Engines. 
-- Built on Google's core infrastructure. 
+- Built on Google's core infrastructure, private and biggest network in the world.
 - GCP is commited to open source. 
+  - Kubernetes, Tensorflow, CloudSpanner -> can build on GCP but not be tied on GCP.
 - Well priced, 60% cheaper than other providers, per minute billing, committed use up to 57% discounts.
+  - Cloud credits scales based on funding e.g. Series A level funding: get $20K to $100K free GCP credits, Snapchat saved a lot of money.
 - Good support and resources, can directly talk with Google's engineers if there are problems.
 
 GCP Services
