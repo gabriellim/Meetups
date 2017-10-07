@@ -14,6 +14,10 @@ Menu > AWS & Cloud Computing > Global Infrastructure
 
 ### What is Cloud Computing?
 - It's an on-demand delivery of computing power, database storage, apps and It resources through the cloud platform and Internet. Priced as pay-as-you-go.
+- Advantages:
+  - Don't have to invest in hardware and heavy lifting to manage the platform. Only have to worry about the application and data.
+  - Can spin up custom instances that fit exactly what our computing requirements are. Manipulate computing power or storage as much or as little as we want.
+  - Pay only for what we use.
 
 ### Elastic Cloud Computing (EC2)
 ---
