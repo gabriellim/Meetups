@@ -12,6 +12,9 @@ Menu > AWS & Cloud Computing > Global Infrastructure
 - Non-expiring offers include AWS Lambda, DynamoDB, Cognito, CodeCommit, CloudWatch, Mobile Analytics and more.
 - Expiring offers include AWS Elastic Compute Cloud (EC2), Simple Storage Service (S3), Elastic File System (EFS), Relational Database Service (RDS), AWS IoT and more.
 
+### What is Cloud Computing?
+- It's an on-demand delivery of computing power, database storage, apps and It resources through the cloud platform and Internet. Priced as pay-as-you-go.
+
 ### Elastic Cloud Computing (EC2)
 ---
 - EC2 lets you start virtual servers where you define how powerful they are. You can then do anything you want on them. Install web server and php interpreter and host your own website.
