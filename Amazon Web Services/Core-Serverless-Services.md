@@ -1,26 +1,26 @@
 ## Amazon Web Services
 
-### Which services do we need?
+![alt text](https://i.imgur.com/F1rlilW.png)
 ---
-1. Serve a static app (Angular or React) -> S3 (Simple Storage Service)
+**1. Serve a static app (Angular or React) -> S3 (Simple Storage Service)**
 - Static app is has a couple of files, html and scripts
 - No need to run server side code, simply store the files and configure how to access from the web
 
-2. If we need a REST API -> API Gateway
+**2. If we need a REST API -> API Gateway**
 - Store or fetch data
 
-3. Execute code on demand -> Lambda
+**3. Execute code on demand -> Lambda**
 - Run code whenever it is needed
 
-4. Store and retrieve data in a DB -> DynamoDB (NoSQL)
+**4. Store and retrieve data in a DB -> DynamoDB (NoSQL)**
 - Don't have to provision any DB server
 
-5. Authenticate Users -> Cognito
+**5. Authenticate Users -> Cognito**
 - Create user pools to allows users to sign up and log in to use our services
 - Can protect REST API so only authenticated users can access its endpoints
 
-6. Translate URL -> Route 53
+**6. Translate URL -> Route 53**
 - Register and configure our own domain, load from our S3 file bucket
 
-7. Improve Performance e.g. caching -> Cloudfront
+**7. Improve Performance (e.g. caching) -> Cloudfront**
 - Will copy static files in S3 to different servers around the world so users will have the quickest route when accessing your resources
